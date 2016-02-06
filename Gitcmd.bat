@@ -1,0 +1,1 @@
+C:\Users\N\AppData\Local\GitHub\PortableGit_c7e0cbde92ba565cb218a521411d0e854079a28c\cmd\git.exe init
